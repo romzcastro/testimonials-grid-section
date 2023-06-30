@@ -79,7 +79,7 @@ h1 {
 }
 .dclifford {
   background-color: var(--clr-primary-1);
-  background-image: url(/images/bg-pattern-quotation.svg);
+  background-image: url(../images/bg-pattern-quotation.svg);
   background-repeat: no-repeat;
   background-position: top right 2em;
   border-radius: 0.95em;
