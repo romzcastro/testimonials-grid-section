@@ -270,6 +270,13 @@ h1 {
 }
 /* kwhittle */
 @media screen and (min-width: 48em) {
+    body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+  }
   .wrapper {
     display: flex;
     flex-wrap: wrap;
